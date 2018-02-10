@@ -3,4 +3,4 @@
 
 [Ссылка на таблицу] (https://docs.google.com/spreadsheets/d/1RvH3TnDzJLDmqf-d61TAIPVTS5IFlnecnFCu9qjycPI/edit#gid=164787945)
 
-Опрос был о понятии фандом, отношении к нему и вообще понимании этой субкультуры 
+Опрос был о понятии [фандом] (https://en.wikipedia.org/wiki/Fandom), отношении к нему и вообще понимании этой субкультуры 
